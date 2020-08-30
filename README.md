@@ -16,7 +16,7 @@ I have been learning to create few dynamic websites. Here is the one I'm current
 [LinkedIn](https://www.linkedin.com/in/adarsh-mamgain-b091031b6/)
 
 ## Support
-[![](adarsh-mamgain/button.png)](https://pages.razorpay.com/donate_adarsh_mamgain)
+[![DONATE](button.png)](https://pages.razorpay.com/donate_adarsh_mamgain)
 <!--
 **adarsh-mamgain/adarsh-mamgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
