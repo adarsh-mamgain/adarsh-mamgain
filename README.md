@@ -7,7 +7,7 @@ I am sweet 18 doing B.Tech in Computer Science.
 I have been learning to create few dynamic websites.
 
 - 🌱 I’m currently learning a Harvard's **free** [CS50 Course](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) on web development using python and javascript.
-- 🔭 I'm currently working on my personal website [adarshmamgain.com](http://adarshmamgain.com)
+- 🔭 I'm currently working on my dynamic website [bullstockz.herokuapp.com](http://bullstockz.herokuapp.com)
 - 👯 I’m looking to collaborate on dynamic webpages. If you are working on the same or need help, please reach me out below on my socials.
 - ⚡ Fun fact: I have been doing these in my whole quarantine.
 
