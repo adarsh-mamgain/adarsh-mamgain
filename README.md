@@ -6,12 +6,17 @@ I am sweet 18 doing B.Tech in Computer Science.
 
 I have been learning to create few dynamic websites.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adarsh-mamgain&show_icons=true&count_private=true&title_color=6900d3&icon_color=6900d3">
+
+
 - 🌱 I’m currently learning a Harvard's **free** [CS50 Course](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) on web development using python and javascript.
 - 🔭 I'm currently working on my dynamic website [adarshmamgain.herokuapp.com](http://adarshmamgain.herokuapp.com)
 - 👯 I’m looking to collaborate on dynamic webpages. If you are working on the same or need help, please reach me out below on my socials.
 - ⚡ Fun fact: I have been doing these in my whole quarantine.
 
 ## Please reach me 📫
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-mamgain&card_width=400px">
 
 [![Instagram](instagram.png)](https://instagram.com/_adarsh_mamgain_)Instagram
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/adarsh-mamgain)LinkedIn
