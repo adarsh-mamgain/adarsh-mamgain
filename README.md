@@ -1,41 +1,29 @@
-### Welcome to the room of randomness 👋
+# Hello! I'm Adarsh Mamgain
 
-# Adarsh Mamgain
+A web developer based in Bangalore, India. Checkout my pinned repositories.
 
-I am sweet 18 doing B.Tech in Computer Science.
+## My tech stack:
 
-I have been learning to create few dynamic websites.
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=adarsh-mamgain&show_icons=true&count_private=true&title_color=6900d3&icon_color=6900d3">
-
-
-- 🌱 I’m currently learning a Harvard's **free** [CS50 Course](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) on web development using python and javascript.
-- 🔭 I'm currently working on my dynamic website [adarshmamgain.herokuapp.com](http://adarshmamgain.herokuapp.com)
-- 👯 I’m looking to collaborate on dynamic webpages. If you are working on the same or need help, please reach me out below on my socials.
-- ⚡ Fun fact: I have been doing these in my whole quarantine.
-
-## Please reach me 📫
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-mamgain&card_width=400px">
-
-[![Instagram](instagram.png)](https://instagram.com/_adarsh_mamgain_)Instagram
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/adarsh-mamgain)LinkedIn
-
-## Support
-
-If you love my repos and my work, you can help me by supporting down below.
-There's a quick python code in the below link, consider looking. 
-
-[![DONATE](button.png)](https://pages.razorpay.com/donate_adarsh_mamgain)
-
-
-<!--
-**adarsh-mamgain/adarsh-mamgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+</div>
