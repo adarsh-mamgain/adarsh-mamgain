@@ -2,8 +2,6 @@
 
 A web developer based in Bangalore, India. Checkout my pinned repositories.
 
-## My tech stack:
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
