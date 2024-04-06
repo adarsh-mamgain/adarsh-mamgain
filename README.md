@@ -1,6 +1,6 @@
 # Hello! I'm Adarsh Mamgain
 
-A web developer based in Bangalore, India. Checkout my pinned repositories.
+A full-stack developer working in Bangalore, India. Checkout my pinned repositories.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
